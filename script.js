@@ -1,4 +1,7 @@
 //for all page 
+
+var audio = new Audio('asset/Audio/Backsound/Sapphire Lotus.mp3');
+audio.play();
 //document.oncontextmenu = new Function("return false");
 //Page 1
 //get username
